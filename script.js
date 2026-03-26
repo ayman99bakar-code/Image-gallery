@@ -1,10 +1,18 @@
 const images = [
-    "https://picsum.photos/id/1015/400/300" ,
-    "https://picsum.photos/id/1016/400/300" ,
-    "https://picsum.photos/id/1018/400/300" ,
-    "https://picsum.photos/id/1020/400/300" ,
-    "https://picsum.photos/id/1024/400/300" ,
-    "https://picsum.photos/id/1027/400/300" 
+  "https://picsum.photos/id/1015/400/300",
+  "https://picsum.photos/id/1016/400/300",
+  "https://picsum.photos/id/1018/400/300",
+  "https://picsum.photos/id/1020/400/300",
+  "https://picsum.photos/id/1024/400/300",
+  "https://picsum.photos/id/1027/400/300",
+
+  "https://picsum.photos/id/1035/400/300",
+  "https://picsum.photos/id/1040/400/300",
+  "https://picsum.photos/id/1043/400/300",
+  "https://picsum.photos/id/1050/400/300",
+  "https://picsum.photos/id/1062/400/300",
+  "https://picsum.photos/id/1074/400/300"
+  
 ];
 let currentIndex;
 function openLightbox(index){
